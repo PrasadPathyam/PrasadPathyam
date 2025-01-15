@@ -22,3 +22,8 @@ c,c++,Java ,Python,Sql,MongoDB,c#,Angular ,NodeJs,ReactJs
  Lung Cancer Prediction Using CNN with CT Scans
  Heart Disease Prediction Using Machine Learning Algorithms
  Water Foot Print Project   
+
+ Certifications
+ MongoDB
+ Java
+ C
